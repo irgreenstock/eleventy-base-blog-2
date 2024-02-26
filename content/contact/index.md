@@ -7,7 +7,7 @@ eleventyNavigation:
 ---
 
 <div class="container border border-light-subtle rounded mx-auto p-4 m-4">
-  <form action="POST" data-netlify="true">
+  <form name="contact" action="POST" data-netlify="true">
   <div class="form-group p-2"><div class="row">
     <div class="col"><label for="First Name">First Name</label><input id="First Name" type="text" class="form-control" placeholder="First Name" aria-label="First Name"></div>
     <div class="col">
