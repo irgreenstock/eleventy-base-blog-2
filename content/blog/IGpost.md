@@ -1,9 +1,18 @@
 ---
-title: Creating a blog post
+title: Creating a Tip Calculator
 date: 2024-02-25
 tags: -IG
 ---
 
-## Creating a blog post
+## Creating a tip calculator with JavaScript
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a
+<div>This shows how JavaScript can be utilised to calculate a tip and provide the final bill
+
+
+<div>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="JjzmaVo" data-user="Isabelle-Greenstock" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/Isabelle-Greenstock/pen/JjzmaVo">
+  Tip Calculator</a> by Isabelle Greenstock (<a href="https://codepen.io/Isabelle-Greenstock">@Isabelle-Greenstock</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p></div>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
