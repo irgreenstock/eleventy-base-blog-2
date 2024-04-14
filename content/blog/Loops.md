@@ -5,11 +5,11 @@ tags: -IG -JavaScript
 ---
 
 <hr>
-<div>Exploring JavaScript loops, arrays and objects - part 1
+<div>
 
-First up, a shopping cart. We can find cart totals, apply discount and filter items by price. 
+Looking at different uses for loops, arrays and objects in JavaScript. First up, a shopping cart. We can find cart totals, apply discount and filter items by price. 
 
-<h3>We can list shopping cart items in an array...</h3>
+<br><h3>We can list shopping cart items in an array...</h3><br>
 
 ``` js
 const cartItems =[
@@ -25,7 +25,7 @@ const cartItems =[
         { name: "onions", type: "food", quantity: 3, price: 0.4 }
       ];
 ```
-<h3>Find the total cost of the cart...</h3>
+<br><h3>Find the total cost of the cart...</h3><br>
 
 ``` js
 //Find the cart total
@@ -39,7 +39,7 @@ getTotal = (cart) => {
 
 console.log(getTotal(cartItems));
 ```
-<h3>Apply discounts by item type or on all the cart...</h3>
+<br><h3>Apply discounts by item type or on all the cart...</h3><br>
 
 ``` js
 //Apply a discount on one type of item
@@ -80,7 +80,7 @@ getTotal = (cart, discountAmount, type) => {
 
 console.log(getTotal(cartItems, 15, 'any'));
  ```
-<h3> Or find items in a price range! </h3>
+<br><h3> Or find items in a price range! </h3><br>
 
  ``` js 
 //Find items between two prices

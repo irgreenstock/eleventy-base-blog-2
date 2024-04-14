@@ -9,7 +9,7 @@ tags: -IG -JavaScript
 
 Looking further at using loops, arrays and objects. This time, finding different mathematical averages.
 
-<h3>Mean</h3><br>
+<br><h3>Mean</h3><br>
 
 ``` js
 const numbers = [49, 30, 9, 245, 56, 9];
@@ -23,7 +23,7 @@ getMean = (numbers) => {
 }
 console.log('Mean = ' + getMean(numbers));
 ```
-<h3>Median</h3><br>
+<br><h3>Median</h3><br>
 
 ``` js
 getMedian = (numbers) => {
@@ -41,7 +41,7 @@ getMedian = (numbers) => {
 console.log('Median = ' + getMedian(numbers));
 
 ```
-<h3>Mode</h3><br>
+<br><h3>Mode</h3><br>
 
 ``` js
 getMode = (numbers) => {
@@ -74,7 +74,7 @@ return Number(highestValueKey);
 console.log('Mode = ' + getMode(numbers));
 
  ```
-<h3>Write a function with switch case to choose between mean, median or mode</h3><br>
+<br><h3>Write a function with switch case to choose between mean, median or mode</h3><br>
 
  ``` js 
 mmmFunction = (numbers, method) => {
