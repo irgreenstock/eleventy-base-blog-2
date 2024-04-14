@@ -4,7 +4,7 @@ date: 2024-02-25
 tags: -IG
 ---
 
-
+<hr>
 <div>This shows how JavaScript can be utilised to calculate a tip and provide the final bill. The codepen embed below shows a simple front end which can display the result of the calculation.
 
 
@@ -39,6 +39,7 @@ document.addEventListener('submit', (e) => e.preventDefault());
 
 ```
 </div>
+<hr>
 <h2>Tip Calculator</h2>
 <div>
 <p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="JjzmaVo" data-user="Isabelle-Greenstock" data-zoom="0.5" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
