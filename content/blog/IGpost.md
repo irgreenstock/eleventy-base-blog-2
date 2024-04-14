@@ -1,7 +1,7 @@
 ---
 title: Creating a Tip Calculator with JavaScript
-date: 2024-02-25
-tags: -IG
+date: 2024-03-25
+tags: -IG -JavaScript
 ---
 
 <hr>

@@ -11,7 +11,7 @@ eleventyNavigation:
 <p>Using Bootstrap to create a webpage for a local business.</p>
 </div>
 <hr>
-<div id="carouselExample" class="carousel slide">
+<div id="carouselExample" class="carousel carousel-dark slide">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="/img/StefandDidi1.png" class="d-block w-100" alt="Image of homepage for Stef and Didi">
