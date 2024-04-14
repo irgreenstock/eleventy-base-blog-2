@@ -1,12 +1,11 @@
 ---
-title: Creating a Tip Calculator
+title: Creating a Tip Calculator with JavaScript
 date: 2024-02-25
 tags: -IG
 ---
 
-## Creating a tip calculator with JavaScript
 
-<div>This shows how JavaScript can be utilised to calculate a tip and provide the final bill
+<div>This shows how JavaScript can be utilised to calculate a tip and provide the final bill. The codepen embed below shows a simple front end which can display the result of the calculation.
 
 
 ``` js
@@ -42,7 +41,7 @@ document.addEventListener('submit', (e) => e.preventDefault());
 </div>
 <h2>Tip Calculator</h2>
 <div>
-<p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="JjzmaVo" data-user="Isabelle-Greenstock" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="JjzmaVo" data-user="Isabelle-Greenstock" data-zoom="0.5" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/Isabelle-Greenstock/pen/JjzmaVo">
   Tip Calculator</a> by Isabelle Greenstock (<a href="https://codepen.io/Isabelle-Greenstock">@Isabelle-Greenstock</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
